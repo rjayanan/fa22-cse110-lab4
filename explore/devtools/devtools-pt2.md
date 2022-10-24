@@ -1,0 +1,2 @@
+1. The bug was that the the values num1 and num2 were concatenated together by adding the strings instead of actually adding the integer values
+2. I would multiply num1 and num2 by 1so that they get casted to their actual integer value and then add them to get the sum of the integer value
